@@ -1,0 +1,5 @@
+kafka-console-producer --broker-list kafka:9092 --topic custom_events <<END
+{"event_id": 1, "time":"2020-05-16 23:55:44", "user_id": 1, "project_id": 2, "organization_id":3}
+{"event_id": 2, "time":"2020-05-16 23:55:44", "user_id": 2, "project_id": 2, "organization_id":3}
+{"event_id": 3, "time":"2020-05-16 23:55:44", "user_id": 3, "project_id": 2, "organization_id":3}
+END
