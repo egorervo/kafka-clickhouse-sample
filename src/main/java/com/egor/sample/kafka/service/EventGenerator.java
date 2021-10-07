@@ -1,6 +1,6 @@
-package com.stripo.versions.helper.service;
+package com.egor.sample.kafka.service;
 
-import com.stripo.versions.helper.data.CustomEvent;
+import com.egor.sample.kafka.data.CustomEvent;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

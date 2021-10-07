@@ -1,4 +1,4 @@
-package com.stripo.versions.helper.data;
+package com.egor.sample.kafka.data;
 
 import com.google.gson.annotations.SerializedName;
 import lombok.AllArgsConstructor;

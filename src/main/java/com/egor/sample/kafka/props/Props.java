@@ -1,4 +1,4 @@
-package com.stripo.versions.helper.props;
+package com.egor.sample.kafka.props;
 
 public class Props {
     public static String TOPIC = "custom_events";

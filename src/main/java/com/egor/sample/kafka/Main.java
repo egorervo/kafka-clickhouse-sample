@@ -1,7 +1,7 @@
-package com.stripo.versions.helper;
+package com.egor.sample.kafka;
 
 
-import com.stripo.versions.helper.service.EventsProducer;
+import com.egor.sample.kafka.service.EventsProducer;
 
 public class Main {
 
